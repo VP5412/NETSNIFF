@@ -10,7 +10,6 @@
 
 ## 🚀 Key Features
 
-
 ### 🌐 Interactive Forensic UI (`netsniff_pro_cli.html`)
 - **Zero-Install Analysis**: Run a full network analyzer directly in your browser.
 - **Hex/ASCII Inspector**: Detailed breakdown of raw packet data with protocol-aware highlighting.
@@ -29,9 +28,6 @@
 
 ## 📖 Usage Instructions
 
-
-```
-
 ### Exploring the Web Interface
 1. Open `netsniff_pro_cli.html` in your browser.
 2. Click **"▶ START ENGINE"** to activate the simulated capture session.
@@ -39,10 +35,8 @@
 
 ---
 
-
 ## 🔗 Screenshot
 <img width="1599" height="775" alt="image" src="https://github.com/user-attachments/assets/778e00be-89a2-4863-8560-9a6e89309fe0" />
-
 
 ---
 ## 🔗 Author & Socials
