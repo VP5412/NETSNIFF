@@ -36,7 +36,7 @@
 ---
 
 ## 🔗 Screenshot
-<img width="1599" height="775" alt="image" src="https://github.com/user-attachments/assets/778e00be-89a2-4863-8560-9a6e89309fe0" />
+<img width="1599" height="798" alt="image" src="https://github.com/user-attachments/assets/17cc6334-fab4-4c08-adaf-a5953cf1ee0b" />
 
 ---
 ## 🔗 Author & Socials
